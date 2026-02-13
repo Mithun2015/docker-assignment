@@ -57,6 +57,15 @@ docker-compose down
 <img width="1280" height="118" alt="image" src="https://github.com/user-attachments/assets/3fd5e275-0dcb-4522-9e9a-c5be11484e64" />
 
 
+## Bonus Features
+
+- .dockerignore for optimized build
+- Environment variables support
+- Healthcheck added
+<img width="512" height="19" alt="image" src="https://github.com/user-attachments/assets/8c86a574-3236-4755-8811-00a020898680" />
+<img width="472" height="144" alt="image" src="https://github.com/user-attachments/assets/6dd7a461-5caf-453e-9588-263663b4a621" />
+<img width="856" height="383" alt="image" src="https://github.com/user-attachments/assets/0c9b4b17-b9d0-4df1-9acf-eb11e3ed538f" />
+
 
 
 
