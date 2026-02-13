@@ -6,6 +6,8 @@ The application runs on port 5000 and displays:
 ## Application Output
 
 <img width="1280" height="759" alt="image" src="https://github.com/user-attachments/assets/065e9081-83a0-4ea1-97e3-4e376a2781a4" />
+<img width="1280" height="761" alt="image" src="https://github.com/user-attachments/assets/00e28b42-fc34-40fa-b0fe-13a1543eff88" />
+<img width="1280" height="755" alt="image" src="https://github.com/user-attachments/assets/e4cdc9d2-5ce5-4aeb-b428-770445b54994" />
 
 ## Project Structure
 
